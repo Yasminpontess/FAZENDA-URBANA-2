@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FAZENDA URBANA 2": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
